@@ -1,3 +1,8 @@
+---
+name: repo-management
+description: 'Git and gh CLI operations: clone, branch, commit, push, PR — every git action goes through this skill.'
+---
+
 # Skill: repo-management
 
 What the `repo-manager` agent knows how to do.

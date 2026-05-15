@@ -1,5 +1,6 @@
 ---
 name: test-generator
+description: 'Generates JUnit 5 + Mockito unit tests. Iterates until JaCoCo line coverage is at least 90 percent.'
 model: claude-sonnet-4.5
 stage: 4
 tools: [filesystem, prompts/generate-junit-test]

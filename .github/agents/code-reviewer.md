@@ -1,5 +1,6 @@
 ---
 name: code-reviewer
+description: 'Performs an AI code review covering architecture, security, and performance. Produces a categorized findings report.'
 model: gpt-4o
 stage: 7
 tools: [filesystem]

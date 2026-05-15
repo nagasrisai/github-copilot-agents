@@ -1,5 +1,6 @@
 ---
 name: nexus-scanner
+description: 'Runs Nexus IQ dependency scans via the Nexus MCP server and blocks the pipeline on any critical CVE or policy violation.'
 model: gpt-4o-mini
 stage: 6
 tools: [nexus-iq-mcp]

@@ -1,3 +1,8 @@
+---
+mode: 'agent'
+description: 'Generate a Spring Boot REST controller with proper validation, response codes, and Javadoc.'
+---
+
 # Prompt: Generate Spring Boot Controller
 
 You are generating a single `@RestController` for an AIDLC microservice.

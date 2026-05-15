@@ -1,3 +1,8 @@
+---
+applyTo: '**'
+description: 'Configuration and tool list for the Nexus IQ MCP server (localhost).'
+---
+
 # Nexus IQ MCP Configuration
 
 The `nexus-iq-mcp` server exposes Sonatype Nexus IQ to Copilot CLI for dependency vulnerability and policy evaluation.

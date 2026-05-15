@@ -1,3 +1,8 @@
+---
+applyTo: '**'
+description: 'Configuration and tool list for the SonarQube MCP server (localhost).'
+---
+
 # SonarQube MCP Configuration
 
 The `sonarqube-mcp` server exposes SonarQube to Copilot CLI for scan orchestration and issue retrieval.

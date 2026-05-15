@@ -1,3 +1,8 @@
+---
+mode: 'agent'
+description: 'Render a deterministic, audit-friendly pull-request body from AIDLC run artifacts.'
+---
+
 # Prompt: render PR body
 
 ## System

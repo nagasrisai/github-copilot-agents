@@ -1,3 +1,8 @@
+---
+applyTo: '**/src/test/**/e2e/**/*.java'
+description: 'Testcontainers + RestAssured end-to-end testing conventions for every public REST endpoint.'
+---
+
 # End-to-End Testing for Spring Boot Microservices (Offline Reference)
 
 Conventions for writing E2E tests that boot the full Spring context, run against real dependencies via Testcontainers, and exercise REST endpoints with RestAssured.

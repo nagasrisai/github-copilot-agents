@@ -1,3 +1,8 @@
+---
+name: orchestrator
+description: 'Top-level AIDLC coordinator. Owns run lifecycle and enforces all five human-in-the-loop checkpoints (C1-C5). Delegates concrete actions to specialist agents.'
+---
+
 # Agent: orchestrator
 
 ## Role

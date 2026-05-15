@@ -1,3 +1,8 @@
+---
+applyTo: '**'
+description: 'No-internet operating rules: all references local, Maven runs with -o, MCP servers on localhost.'
+---
+
 # Offline Mode
 
 The AIDLC pipeline runs on AI models that **have no internet access**. Every fact, convention, or example the model needs must live inside `.github/instructions/`. The model must never be told to "search", "look up", or "fetch from the web".

@@ -1,3 +1,8 @@
+---
+applyTo: '**/*.java,**/pom.xml'
+description: 'Spring Boot 3.3 conventions: constructor injection, records, transactional boundaries, exception handling.'
+---
+
 # Spring Boot Conventions — AIDLC
 
 ## Version

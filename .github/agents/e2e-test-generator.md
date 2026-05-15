@@ -1,3 +1,8 @@
+---
+name: e2e-test-generator
+description: 'Generates end-to-end tests using Testcontainers and RestAssured. Ensures every public REST endpoint is covered with happy-path and failure-path tests.'
+---
+
 # Agent: e2e-test-generator
 
 ## Role

@@ -1,5 +1,6 @@
 ---
 name: architect
+description: 'Designs the service. Picks patterns (hexagonal/MVC/CQRS), dependencies, and service boundaries for a new Spring Boot microservice.'
 model: gpt-4o
 stage: 2
 tools: [filesystem]

@@ -1,3 +1,8 @@
+---
+name: e2e-testing
+description: 'End-to-end testing with Testcontainers + RestAssured. One test class per controller; happy/validation/404/auth coverage.'
+---
+
 # Skill: e2e-testing
 
 What the `e2e-test-generator` agent knows how to do.

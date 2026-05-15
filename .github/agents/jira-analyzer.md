@@ -1,5 +1,6 @@
 ---
 name: jira-analyzer
+description: 'Extracts requirements, acceptance criteria, and story-point estimates from a Jira ticket via the Jira MCP server.'
 model: gpt-4o
 stage: 1
 tools: [jira-mcp]

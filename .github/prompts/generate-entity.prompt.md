@@ -1,3 +1,8 @@
+---
+mode: 'agent'
+description: 'Generate a JPA entity with appropriate annotations and constraints.'
+---
+
 # Prompt: Generate JPA Entity + Repository + DTOs
 
 You are generating the persistence layer for one aggregate.

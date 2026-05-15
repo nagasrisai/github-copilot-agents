@@ -1,3 +1,8 @@
+---
+mode: 'agent'
+description: 'Plan a Spring Boot version upgrade (including 2.x->3.x major) using the offline upgrade playbook.'
+---
+
 # Prompt: upgrade Spring Boot version
 
 ## System

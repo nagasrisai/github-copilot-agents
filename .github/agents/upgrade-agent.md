@@ -1,3 +1,8 @@
+---
+name: upgrade-agent
+description: 'Performs Java (8->21) and Spring Boot (2.x->3.x) version upgrades. Mechanical, conservative, one logical change per commit. Reads only from the offline upgrade playbook.'
+---
+
 # Agent: upgrade-agent
 
 ## Role

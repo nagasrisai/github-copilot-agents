@@ -1,3 +1,8 @@
+---
+mode: 'agent'
+description: 'Assemble the human-review packet and gate the push on checkpoint C4.'
+---
+
 # Prompt: request human review (Checkpoint C4)
 
 ## System

@@ -1,5 +1,6 @@
 ---
 name: code-generator
+description: 'Generates Spring Boot 3.3 Java source (controller, service, repository, entity, DTO) following the project Java style and Spring conventions.'
 model: claude-sonnet-4.5
 stage: 3
 tools: [filesystem, prompts/generate-controller, prompts/generate-service, prompts/generate-entity]

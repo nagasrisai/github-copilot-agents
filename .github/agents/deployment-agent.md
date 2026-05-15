@@ -1,5 +1,6 @@
 ---
 name: deployment-agent
+description: 'Composes the pull-request body from run artifacts (scans, coverage, decisions log) and creates the PR.'
 model: gpt-4o-mini
 stage: 8
 tools: [github-mcp, jira-mcp]

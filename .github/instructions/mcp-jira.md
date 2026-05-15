@@ -1,3 +1,8 @@
+---
+applyTo: '**'
+description: 'Configuration and tool list for the Jira MCP server (localhost).'
+---
+
 # Jira MCP Configuration
 
 The `jira-mcp` server exposes Jira Cloud / Data Center to Copilot CLI for ticket retrieval and status updates.

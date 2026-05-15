@@ -1,3 +1,8 @@
+---
+applyTo: '**'
+description: 'Self-contained offline reference for Java 8->21 and Spring Boot 2.x->3.x upgrade paths. The only source of truth for upgrade transformations.'
+---
+
 # Java & Spring Boot Upgrade Playbook (Offline Reference)
 
 Complete reference for upgrading Java and Spring Boot versions **without internet access**. The `upgrade-agent` reads from this file; nothing here may require external lookup.

@@ -1,3 +1,8 @@
+---
+applyTo: '**/src/test/**/*.java'
+description: 'JUnit 5 + Mockito unit testing conventions and the 90% line-coverage rule.'
+---
+
 # Testing Standards — AIDLC
 
 ## Coverage Target

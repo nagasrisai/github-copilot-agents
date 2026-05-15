@@ -1,3 +1,8 @@
+---
+mode: 'agent'
+description: 'Push the working branch and open a pull request after asking the user for the target branch (checkpoint C5).'
+---
+
 # Prompt: raise pull request (Stage 9)
 
 ## System

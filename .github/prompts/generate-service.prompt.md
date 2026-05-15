@@ -1,3 +1,8 @@
+---
+mode: 'agent'
+description: 'Generate a Spring service-layer class with constructor injection and transactional boundaries.'
+---
+
 # Prompt: Generate Spring Boot Service Layer
 
 You are generating a single `@Service` class for an AIDLC microservice.

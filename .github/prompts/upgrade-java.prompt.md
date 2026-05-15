@@ -1,3 +1,8 @@
+---
+mode: 'agent'
+description: 'Plan a Java major-version upgrade using the offline upgrade playbook as the only reference.'
+---
+
 # Prompt: upgrade Java version
 
 ## System

@@ -1,5 +1,6 @@
 ---
 name: sonar-reviewer
+description: 'Runs SonarQube scans via the SonarQube MCP server and triages findings. Blocks the pipeline on BLOCKER or CRITICAL issues.'
 model: gpt-4o-mini
 stage: 5
 tools: [sonarqube-mcp]

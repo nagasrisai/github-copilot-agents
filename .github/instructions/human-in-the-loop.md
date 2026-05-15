@@ -1,3 +1,8 @@
+---
+applyTo: '**'
+description: 'Mandatory human checkpoint protocol (C1-C5). Default answer is always No. Never bypass.'
+---
+
 # Human-in-the-Loop Protocol
 
 The pipeline pauses for explicit user confirmation at five checkpoints. **Never bypass these.** "Auto-yes" mode does not exist.

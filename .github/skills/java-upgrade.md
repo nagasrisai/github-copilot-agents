@@ -1,3 +1,8 @@
+---
+name: java-upgrade
+description: 'Java and Spring Boot version upgrades via the offline upgrade playbook. Mechanical rewrites only.'
+---
+
 # Skill: java-upgrade
 
 What the `upgrade-agent` knows how to do for Java + Spring Boot version migrations.

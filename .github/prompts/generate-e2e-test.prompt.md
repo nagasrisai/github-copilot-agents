@@ -1,3 +1,8 @@
+---
+mode: 'agent'
+description: 'Generate an end-to-end Testcontainers + RestAssured test class for a single REST endpoint.'
+---
+
 # Prompt: generate an E2E test
 
 ## System

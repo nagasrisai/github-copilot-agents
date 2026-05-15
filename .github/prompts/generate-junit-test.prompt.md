@@ -1,3 +1,8 @@
+---
+mode: 'agent'
+description: 'Generate JUnit 5 + Mockito unit tests for a target class, aiming for high line coverage.'
+---
+
 # Prompt: Generate JUnit 5 Test Class
 
 You are generating a single test class to maximize line coverage of one production class.

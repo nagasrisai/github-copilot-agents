@@ -1,3 +1,8 @@
+---
+mode: 'agent'
+description: 'Clone the target repository and create the AIDLC working branch with explicit user confirmation (checkpoint C2).'
+---
+
 # Prompt: clone repo and create working branch
 
 ## System

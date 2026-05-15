@@ -1,3 +1,8 @@
+---
+applyTo: '**/*.java'
+description: 'Java code style and idioms for generated Spring Boot services.'
+---
+
 # Java Style Guide — AIDLC Generated Services
 
 Applies to all generated code under `**/src/main/java/`.

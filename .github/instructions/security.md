@@ -1,3 +1,8 @@
+---
+applyTo: '**/*.java'
+description: 'Spring Security 6 baseline: SecurityFilterChain, input validation, parameterized queries, secret handling.'
+---
+
 # Security Baseline — AIDLC
 
 Every AIDLC-generated service ships with this baseline. Departures require a documented exception in the PR description.
