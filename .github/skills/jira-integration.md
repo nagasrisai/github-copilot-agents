@@ -1,5 +1,6 @@
 ---
-skill: jira-integration
+name: jira-integration
+description: 'Jira MCP integration. Used by jira-analyzer, orchestrator, and deployment-agent for ticket retrieval, status updates, and comments.'
 owners: [jira-analyzer, orchestrator, deployment-agent]
 mcp: jira-mcp
 ---

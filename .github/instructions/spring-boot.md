@@ -1,5 +1,5 @@
 ---
-applyTo: '**/*.java,**/pom.xml'
+applyTo: '**/*.{java,xml}'
 description: 'Spring Boot 3.3 conventions: constructor injection, records, transactional boundaries, exception handling.'
 ---
 

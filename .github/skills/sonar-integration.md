@@ -1,5 +1,6 @@
 ---
-skill: sonar-integration
+name: sonar-integration
+description: 'SonarQube MCP integration. Used by sonar-reviewer to scan, fetch issues, and evaluate the quality gate.'
 owners: [sonar-reviewer]
 mcp: sonarqube-mcp
 ---

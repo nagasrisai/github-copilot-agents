@@ -1,5 +1,6 @@
 ---
-skill: pipeline-orchestration
+name: pipeline-orchestration
+description: 'Stage sequencing, state persistence under .aidlc/runs/<runId>/, resumability, and recovery patterns. Used by the orchestrator agent.'
 owners: [orchestrator]
 ---
 

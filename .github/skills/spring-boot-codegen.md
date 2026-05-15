@@ -1,5 +1,6 @@
 ---
-skill: spring-boot-codegen
+name: spring-boot-codegen
+description: 'Spring Boot 3.3 source generation: controllers, services, repositories, entities, DTOs. Used by code-generator.'
 owners: [code-generator]
 ---
 

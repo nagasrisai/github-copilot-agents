@@ -1,5 +1,6 @@
 ---
-skill: junit-coverage
+name: junit-coverage
+description: 'JUnit 5 + Mockito unit-test generation aimed at 90% line coverage measured by JaCoCo. Used by test-generator.'
 owners: [test-generator]
 ---
 

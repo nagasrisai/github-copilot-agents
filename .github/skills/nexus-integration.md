@@ -1,5 +1,6 @@
 ---
-skill: nexus-integration
+name: nexus-integration
+description: 'Nexus IQ MCP integration. Used by nexus-scanner to evaluate dependencies, fetch CVE reports, and check policy violations.'
 owners: [nexus-scanner]
 mcp: nexus-iq-mcp
 ---
