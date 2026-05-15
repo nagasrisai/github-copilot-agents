@@ -1,0 +1,34 @@
+# AIDLC CODEOWNERS
+# Every generated Spring Boot microservice gets reviewed by the right team.
+# Order matters — last match wins.
+
+# Default owner for everything
+*                                       @platform-team
+
+# AIDLC configuration itself
+/.github/                               @platform-team @aidlc-maintainers
+/.github/agents/                        @aidlc-maintainers
+/.github/instructions/                  @platform-team @aidlc-maintainers
+/.github/workflows/                     @devops-team @aidlc-maintainers
+/.github/CODEOWNERS                     @platform-team
+
+# Spring Boot microservice source
+**/pom.xml                              @backend-team @platform-team
+**/src/main/java/**/controller/**       @backend-team @api-team
+**/src/main/java/**/service/**          @backend-team
+**/src/main/java/**/repository/**       @backend-team @data-team
+**/src/main/java/**/entity/**           @backend-team @data-team
+**/src/main/java/**/config/**           @backend-team @security-team
+**/src/main/resources/application*.yml  @devops-team @backend-team
+
+# Tests
+**/src/test/java/**                     @backend-team @qa-team
+
+# Security-sensitive paths
+**/security/**                          @security-team
+**/auth/**                              @security-team
+
+# Infrastructure
+**/Dockerfile                           @devops-team
+**/k8s/**                               @devops-team
+**/helm/**                              @devops-team
